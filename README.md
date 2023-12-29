@@ -1,11 +1,11 @@
 # End-to-end-ML-Project
 
 ```bash
-conda create -n mlproj python=3.8 -y
+conda create -n <Srcfoldername> python=3.8 -y
 ```
 
 ```bash
-conda activate mlproj
+conda activate <Srcfoldername>
 ```
 
 
